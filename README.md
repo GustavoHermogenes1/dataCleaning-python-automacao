@@ -14,6 +14,12 @@ A biblioteca Pandas é uma ferramenta de análise de dados em Python, que permit
 
 # Estrutura do projeto
 - automacao_processos.py: Esse é o aquivo que contém o código em Python da automação do processo.
-- Payment List - Arquivo extraído do SAP, será manipulado e usado para preencher o template que é considerado base de dados para o dashboard de compras.
-- PO List - Arquivo extraído do SAP, será manipulado e usado para preencher o template que é considerado base de dados para o dashboard de compras.
-- Spend List - Arquivo extraído do SAP, será manipulado e usado para preencher o template que é considerado base de dados para o dashboard de compras.
+- Payment List: Arquivo extraído do SAP, será manipulado e usado para preencher o template que é considerado base de dados para o dashboard de compras.
+- PO List: Arquivo extraído do SAP, será manipulado e usado para preencher o template que é considerado base de dados para o dashboard de compras.
+- Spend List: Arquivo extraído do SAP, será manipulado e usado para preencher o template que é considerado base de dados para o dashboard de compras.
+- Template Payment: Arquivo pré-definido pela equipe de compras que será preenchido com as informações de Payment List.
+- Template PO: Arquivo pré-definido pela equipe de compras que será preenchido com as informações de PO List.
+- Template Spend: Arquivo pré-definido pela equipe de compras que será preenchido com as informações de Spend List.
+- 3. Template for Manual Data - Payments Details PBI: Arquivo resultado (já preenchido com os dados corretos) e que será utilizado como base de dados do dashboard de compras.
+- 2. Template for Manual Data - PO Details PBI: Arquivo resultado (já preenchido com os dados corretos) e que será utilizado como base de dados do dashboard de compras.
+- 1. Template for Manual Data - Spend Details PBI: Arquivo resultado (já preenchido com os dados corretos) e que será utilizado como base de dados do dashboard de compras.
