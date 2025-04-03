@@ -1,6 +1,8 @@
 # dataCleaning-python-automacao
 Automatização do tratamento de dados para o dashboard de Compras, identificada durante um processo interno da empresa. O projeto utiliza Python e a biblioteca Pandas para otimizar a manipulação de dados, garantindo mais eficiência e precisão na geração de insights para a equipe de Compras.
 
+A automatização foi feita de forma real com muitos outros dados que não poderiam ser colocados nesse projeto por conta de regras internas da empresa. Portanto, para respeitar essas regras e apenas seguir com a demonstração dessa prática, eu decidi criar arquivos cópias que não contém nenhum tipo de dado sensível ou informações de funcionários, fornedores e/ou clientes.
+
 # Descrição do Problema
 No processo de atualização do dashboard de compras, era necessário extrair dados do SAP, tratá-los manualmente no Excel e preencher templates padronizados definidos pelo time de compras. Esse fluxo, além de ser trabalhoso e consumir muito tempo, aumentava significativamente as chances de erro humano no preenchimento dos templates.
 
